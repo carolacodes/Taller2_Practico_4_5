@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carol\\source\\repos\\Practico5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ED54B4-B25D-4AB9-A913-377DC2E42DFA}|Practico5\\Practico5.csproj|c:\\users\\carol\\source\\repos\\practico5\\practico5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5ED54B4-B25D-4AB9-A913-377DC2E42DFA}|Practico5\\Practico5.csproj|solutionrelative:practico5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ED54B4-B25D-4AB9-A913-377DC2E42DFA}|Practico5\\Practico5.csproj|c:\\users\\carol\\source\\repos\\practico5\\practico5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5ED54B4-B25D-4AB9-A913-377DC2E42DFA}|Practico5\\Practico5.csproj|solutionrelative:practico5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\Practico5\\Practico5\\Form1.cs",
+              "RelativeDocumentMoniker": "Practico5\\Form1.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\Practico5\\Practico5\\Form1.cs",
+              "RelativeToolTip": "Practico5\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAG4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:24:25.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\Practico5\\Practico5\\Form1.cs",
+              "RelativeDocumentMoniker": "Practico5\\Form1.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\Practico5\\Practico5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practico5\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:29:17.252Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

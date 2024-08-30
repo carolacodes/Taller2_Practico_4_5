@@ -1,0 +1,10 @@
+C:\Users\carol\source\repos\Practico4\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\carol\source\repos\Practico4\Practico4\bin\Debug\Practico4.exe
+C:\Users\carol\source\repos\Practico4\Practico4\bin\Debug\Practico4.pdb
+C:\Users\carol\source\repos\Practico4\Practico4\obj\Debug\Practico4.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\Practico4\Practico4\obj\Debug\Practico4.formulario4.resources
+C:\Users\carol\source\repos\Practico4\Practico4\obj\Debug\Practico4.Properties.Resources.resources
+C:\Users\carol\source\repos\Practico4\Practico4\obj\Debug\Practico4.csproj.GenerateResource.cache
+C:\Users\carol\source\repos\Practico4\Practico4\obj\Debug\Practico4.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Practico4\Practico4\obj\Debug\Practico4.exe
+C:\Users\carol\source\repos\Practico4\Practico4\obj\Debug\Practico4.pdb
